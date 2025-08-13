@@ -1,3 +1,3 @@
 # MyBot
 ## UI Preview
-![UI Screenshot](ui.png)
+![UI Screenshot.png](ui.png)
